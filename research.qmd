@@ -1,6 +1,0 @@
----
-title: "research"
-format: html
----
-
-My research examines political conflict and the organization of political authority, particularly in settings where state institutions are uneven, contested, or coexist with other forms of rule. I study how political order is built and maintained, who exercises authority within it, and how these arrangements shape conflict and governance.
