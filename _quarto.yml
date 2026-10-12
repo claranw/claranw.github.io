@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#research
+        text: Research
+      - href: index.qmd#publications
+        text: Publications
+      - href: index.qmd#teaching
+        text: Teaching
+      - href: index.qmd#cv
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

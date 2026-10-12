@@ -1,0 +1,103 @@
+---
+title: "Clara Neupert-Wentz"
+pagetitle: "Clara Neupert-Wentz"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.intro}
+
+::: {.intro-text}
+
+# Clara Neupert-Wentz
+
+**Associate Professor of Political Science**  
+Aarhus University
+
+[Email](mailto:clara@ps.au.dk) · [Google Scholar](https://scholar.google.com/citations?user=q-XMLtAAAAAJ) · [CV](files/cv-clara-neupert-wentz.pdf)
+
+:::
+
+
+:::
+
+## Research {#research}
+
+I study conflict, political violence, and the organization of political authority, particularly where state institutions are uneven, contested, or coexist with other forms of rule. My research asks who exercises authority, how political order is built and maintained, and how these arrangements shape conflict, governance, and our ability to observe both. Current projects investigate:
+
+**Conflict data -** How violence is reported and measured, how conflict actors shape the information environment, and what disagreement across sources can tell us about violence and measurement uncertainty.
+
+**Political authority and conflict -** How political authority is organized across state and non-state institutions, and how different configurations of authority shape governance, conflict, and strategies of conflict resolution.
+
+**Gender, norms and representation -** How kinship systems and local institutions shape women's political participation, representation, and access to political and legal institutions.
+
+## Publications {#publications}
+
+::: {.publication}
+Carl Müller-Crepon, Clara Neupert-Wentz, Andrej Kokkonen & Jørgen Møller (2026).  
+<span class="pub-title">Rulers on the road: Itinerant rule in the Holy Roman Empire, AD 919–1519.</span> *American Journal of Political Science*.  
+<span class="pub-links">[Article](https://doi.org/10.1111/ajps.70047) · [Data & code](https://doi.org/10.7910/DVN/PZ2VKQ)</span>
+:::
+
+::: {.publication}
+Clara Neupert-Wentz (2025).  
+<span class="pub-title">Traditional Authorities, Norm Collisions, and Communal Conflict.</span> *Journal of Conflict Resolution*, 69(2–3), 463–490.  
+<span class="pub-links">[Article](https://doi.org/10.1177/00220027241237438) · [Data & code](https://doi.org/10.7910/DVN/LSPINX)</span>
+:::
+
+::: {.publication}
+Clara Neupert-Wentz & Friederike Luise Kelle (2024).  
+<span class="pub-title">Traditional Authorities and Strategies in Demands for Self-Determination.</span> *International Studies Quarterly*, 68(4), sqae134.  
+<span class="pub-links">[Article](https://doi.org/10.1093/isq/sqae134) · [Data & code](https://doi.org/10.7910/DVN/4IN8RF)</span>
+:::
+
+::: {.publication}
+Clara Neupert-Wentz & Carl Müller-Crepon (2024).  
+<span class="pub-title">Traditional institutions in Africa: Past and present.</span> *Political Science Research and Methods*, 12(2), 267–284.  
+<span class="pub-links">[Article](https://doi.org/10.1017/psrm.2023.50) · [Data & code](https://doi.org/10.7910/DVN/IJ2MII)</span>
+:::
+
+::: {.publication}
+Clara Neupert-Wentz & Carlo Koos (2023).  
+<span class="pub-title">Theory as guide to the analysis of polygyny and conflict: A response to Ash (2022).</span> *Research & Politics*, 10(2).  
+<span class="pub-links">[Article](https://doi.org/10.1177/20531680221144244)</span>
+:::
+
+::: {.publication}
+Clara Neupert-Wentz, Daniela Kromrey & Axel Bayer (2022).  
+<span class="pub-title">The democraticness of traditional political systems in Africa.</span> *Democratization*, 29(2), 296–319.  
+<span class="pub-links">[Article](https://doi.org/10.1080/13510347.2021.1953476) · [Data & code](https://www.tandfonline.com/doi/suppl/10.1080/13510347.2021.1953476?scroll=top)</span>
+:::
+
+::: {.publication}
+Carlo Koos & Clara Neupert-Wentz (2020).  
+<span class="pub-title">Polygynous Neighbors, Excess Men, and Intergroup Conflict in Rural Africa.</span> *Journal of Conflict Resolution*, 64(2–3), 402–431.  
+<span class="pub-links">[Article](https://doi.org/10.1177/0022002719859636) · [Data & code](https://journals.sagepub.com/doi/suppl/10.1177/0022002719859636)</span>
+:::
+
+::: {.publication}
+Clara Neupert-Wentz (2020).  
+<span class="pub-title">Local Gender Norms: Persistence or Change?</span> *Zeitschrift für Friedens- und Konfliktforschung*, 9, 219–225.  
+<span class="pub-links">[Article](https://doi.org/10.1007/s42597-020-00026-0)</span>
+:::
+
+::: {.publication}
+Katharina Holzinger, Roos Haer, Axel Bayer, Daniela M. Behr & Clara Neupert-Wentz (2019).  
+<span class="pub-title">The Constitutionalization of Indigenous Group Rights, Traditional Political Institutions, and Customary Law.</span> *Comparative Political Studies*, 52(12), 1775–1809.  
+<span class="pub-links">[Article](https://doi.org/10.1177/0010414018774347) · [Data & code](https://journals.sagepub.com/doi/suppl/10.1177/0010414018774347)</span>
+:::
+
+## Teaching {#teaching}
+
+I teach courses on international relations, political violence, peace and conflict, and quantitative methods at Aarhus University.
+
+## CV {#cv}
+
+[Download my CV](files/cv-clara-neupert-wentz.pdf)
+
+## Contact {#contact}
+
+Department of Political Science  
+Aarhus University
+
+[Email](mailto:clara@ps.au.dk) · [Google Scholar](https://scholar.google.com/citations?user=q-XMLtAAAAAJ) 
