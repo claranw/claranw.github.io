@@ -4,3 +4,6 @@
 .quarto/
 .DS_Store
 _site.zip
+
+/.quarto/
+**/*.quarto_ipynb
